@@ -23,4 +23,4 @@ Instancia válida: {pizza_matias.pizza_valida}
 
 #e. Usar la función print(), para mostrar en pantalla si la clase Pizza es una pizza válida o no, haciendo uso del atributo creado en el requerimiento 4, sin crear una instancia de la clase. En este punto, la ejecución del script debe mostrar un error (todos los pasos anteriores se deben haber ejecutado correctamente).
 
-#Pizza.pizza_valida
+Pizza.pizza_valida
